@@ -1,0 +1,223 @@
+These references sit in a **cyberpunk / retrofuturist / techno-poster design** family. The strongest direction is: **futuristic editorial poster + HUD interface graphics + bold experimental typography + dystopian techwear mood**.
+
+A very useful base phrase would be:
+
+“in a cyberpunk retrofuturist editorial poster style, with techno-brutalist typography, HUD interface overlays, circuit-board linework, high-contrast neon accents, dystopian fashion imagery, and a premium sci-fi magazine cover layout.”
+
+For prompt writing, these are the best “filler keyword” families.
+
+## Core art styles / movements
+
+
+**Retrofuturism**
+The future imagined through older design eras. Works well with 80s, 90s, Y2K, analog tech, old computer interfaces, cassette-futurist visuals.
+
+**Neo-futurism**
+Clean futuristic shapes, high-tech minimalism, architecture-like geometry, sleek synthetic forms.
+
+**Techno-brutalism**
+Harsh grids, oversized typography, warning labels, industrial layouts, functional-looking design, almost like a military UI poster.
+
+**Y2K Futurism**
+Chrome, translucent panels, early-2000s digital UI, cyber graphics, metallic blue/green/purple accents, “future internet” energy.
+
+**Cassette futurism**
+Chunky retro tech, CRT screens, old hardware, wires, analog buttons, sci-fi machinery from the 70s–90s.
+
+**Dystopian sci-fi editorial**
+High-fashion meets ruined future. Serious faces, strange tech helmets, cold lighting, magazine-cover composition.
+
+**Transhumanist cybernetics**
+Human-machine fusion, neural hardware, visors, implants, synthetic evolution, AI-human identity themes.
+
+## Graphic design directions
+
+Use these when you want the poster/layout vibe:
+
+**Swiss grid futurism**
+Clean alignment, structured layout, bold spacing, disciplined typography.
+
+**Experimental typography**
+Distorted fonts, stretched letters, broken text, fragmented wordforms.
+
+**Brutalist poster design**
+Raw, aggressive, asymmetrical, bold blocks, harsh contrast.
+
+
+**HUD interface design**
+Heads-up display lines, targeting brackets, scanning boxes, small numeric labels, interface overlays.
+
+
+**Glitchcore**
+Digital distortion, broken pixels, scanlines, corrupted text, compression artifacts.
+
+**Mecha UI design**
+Mechanical panels, robot-like shapes, armored geometry, layered machine parts.
+
+**Sci-fi magazine cover layout**
+Large title, dramatic central subject, small technical labels, premium editorial spacing.
+
+## Typography keywords
+
+These are gold for this kind of image:
+
+**condensed futuristic typography**
+**wide brutalist type**
+**fragmented stencil lettering**
+**glitch typography**
+**modular type system**
+**industrial warning-label typography**
+**micro-label UI text**
+**vertical Japanese-inspired text blocks**
+**oversized headline typography**
+**techno sans-serif font**
+**distressed sci-fi title text**
+**digital terminal typography**
+**broken cyber lettering**
+
+Example:
+
+“with oversized condensed futuristic typography, tiny HUD labels, vertical technical text blocks, and fragmented glitch-stencil lettering.”
+
+## Color palette keywords
+
+For the first image:
+**black, mint green, cyan, electric blue, violet, circuit-board green**
+
+For the second image:
+**olive gray, burnt orange, warm neon, muted military green, dark leather black**
+
+For the red gaming posters:
+**black, white, warning red, steel gray, cybernetic crimson**
+
+For the visor portrait:
+**magenta neon, deep blue shadows, hot pink backlight, industrial gray, electric yellow accents**
+
+Prompt phrases:
+
+“dark background with cyan, mint, and violet neon accents”
+
+“black and red techno-brutalist palette with sharp warning graphics”
+
+“muted olive-gray background with a single aggressive orange headline”
+
+“magenta-blue neon noir lighting with industrial cybernetic hardware”
+
+## Texture / finish keywords
+
+These make the output feel more premium:
+
+**matte poster texture**
+**subtle grain**
+**screen-printed texture**
+**halftone noise**
+**CRT scanlines**
+**photocopy degradation**
+**distressed ink edges**
+**glossy synthetic material**
+**brushed metal panels**
+**holographic reflections**
+**soft bloom glow**
+**digital compression artifacts**
+**thin vector linework**
+**layered transparent UI panels**
+
+Example:
+
+“finished with subtle print grain, CRT scanlines, thin vector HUD linework, and slightly distressed ink edges.”
+
+## Subject direction keywords
+
+For characters like your references:
+
+**helmeted cybernetic figure**
+**AI-controlled human subject**
+**masked techwear operative**
+**neural-interface portrait**
+**hacker avatar**
+**futuristic streetwear model**
+**synthetic humanoid**
+**mecha pilot**
+**dystopian fashion model**
+**cybernetic monk**
+**post-human commander**
+**android prophet**
+**VR-possessed human**
+**augmented reality soldier**
+
+Nice phrase:
+
+“a central masked techwear figure wearing a neural-interface helmet, posed like a dystopian fashion editorial subject.”
+
+## Composition keywords
+
+These are especially useful for poster prompts:
+
+**centered symmetrical composition**
+**large negative space for typography**
+**vertical magazine cover layout**
+**layered UI overlays**
+**strong top headline**
+**small technical annotations around the subject**
+**poster grid system**
+**asymmetrical graphic blocks**
+**diagonal warning stripes**
+**central heroic subject**
+**face-first composition**
+**dense futuristic border frame**
+**floating labels and coordinates**
+**scanner-frame composition**
+
+Example:
+
+“vertical 9:16 poster composition, centered subject, oversized headline at the top, tiny technical labels, scanner-frame borders, and layered HUD overlays.”
+
+## “Final result should look like…” phrases
+
+These are great endings:
+
+“the final result should look like a premium cyberpunk gaming magazine cover.”
+
+“the final result should look like a dystopian fashion-tech editorial poster.”
+
+“the final result should look like a futuristic hacking tournament poster.”
+
+“the final result should look like a high-end sci-fi movie teaser poster.”
+
+“the final result should look like a secret military AI interface leaked as a poster.”
+
+“the final result should look like a Neo-Tokyo esports event poster.”
+
+“the final result should look like a luxury streetwear campaign from a dystopian future.”
+
+“the final result should look like a retrofuturistic design zine cover.”
+
+## Ready-to-use prompt skeletons
+
+**1. Cyber hacking poster**
+
+“Create a vertical cyberpunk hacking poster in a retrofuturist techno-brutalist style, featuring a central abstract cybernetic mask made of circuit-board geometry. Use black, mint green, cyan, and violet neon accents, thin HUD interface overlays, scanner borders, micro-labels, fragmented stencil typography, and subtle CRT scanlines. The final result should look like a premium futuristic gaming magazine cover.”
+
+**2. Dystopian fashion portrait**
+
+“Create a dystopian sci-fi fashion editorial portrait of a person wearing a neural-interface visor, in a cyberpunk transhumanist art direction. Use muted olive-gray background tones, aggressive orange headline typography, black techwear clothing, soft neon rim light, small UI labels, and high-end magazine cover composition. The final result should feel like a luxury fashion campaign from a post-human future.”
+
+**3. Retro design poster**
+
+“Create a clean retrofuturist graphic design poster using Swiss grid layout, Bauhaus-inspired spacing, bold black typography, red accent symbols, orbital line graphics, minimal geometric icons, and subtle risograph print texture. The final result should look like an experimental 1990s design school poster about the future.”
+
+**4. Esports cyberpunk poster**
+
+“Create a high-energy cyberpunk esports poster with a masked futuristic character, black and red warning graphics, sharp diagonal shapes, layered HUD overlays, vertical technical labels, glitch typography, and industrial sci-fi UI elements. The final result should look like a Neo-Tokyo gaming tournament poster.”
+
+**5. Dark AI poster**
+
+“Create a dark dystopian AI poster featuring a cybernetic humanoid/mecha subject, tactical sci-fi armor, corrupted interface overlays, heavy black shadows, white brutalist typography, red warning accents, and distressed print texture. The final result should look like a classified military AI project poster.”
+
+**6. Neon visor portrait**
+
+“Create a cinematic cyberpunk portrait of a person wearing a bulky electronic visor, with cables, glowing symbols, magenta-blue neon lighting, industrial hardware, shallow depth of field, dark atmospheric shadows, and transhumanist body-tech aesthetics. The final result should look like a still from a gritty neon-noir sci-fi film.”
+
+A strong all-purpose style stack would be:
+
+**cyberpunk + retrofuturism + techno-brutalism + HUD interface design + experimental typography + dystopian fashion editorial + glitchcore + neon noir.**

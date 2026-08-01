@@ -1,0 +1,49 @@
+name: New visual workflow finding
+description: Record a reusable direction, failure, repair, or efficiency result.
+title: "[Experiment] "
+labels:
+  - experiment
+body:
+  - type: textarea
+    id: job
+    attributes:
+      label: Visual job
+      description: What was being created or edited, for whom, and for which channel?
+    validations:
+      required: true
+  - type: textarea
+    id: locks
+    attributes:
+      label: Preservation locks
+      description: What was not allowed to change?
+    validations:
+      required: true
+  - type: textarea
+    id: fragments
+    attributes:
+      label: Reused prompt fragments
+      description: Which existing fragments or negative constraints were reused?
+  - type: textarea
+    id: failure
+    attributes:
+      label: Failure and repair
+      description: What failed, and what was the smallest successful correction?
+    validations:
+      required: true
+  - type: input
+    id: iterations
+    attributes:
+      label: Iterations before acceptance
+      description: Enter a number only if it was recorded.
+  - type: input
+    id: minutes
+    attributes:
+      label: Elapsed minutes
+      description: Enter a number only if it was recorded.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Shareable evidence
+      description: Link only material that is safe and permitted to publish.
+    validations:
+      required: true
