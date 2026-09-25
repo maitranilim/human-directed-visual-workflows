@@ -7,4 +7,4 @@
 - Added repeatable brief, delta-edit, reference-preservation, and repair workflows.
 - Added selected non-personal outputs.
 - Added a failure catalog and prospective efficiency measurement protocol.
-- Added explicit human-AI authorship, privacy, and rights boundaries.
+- Added notes on authorship, privacy, and rights.
