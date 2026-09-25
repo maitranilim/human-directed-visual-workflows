@@ -20,7 +20,7 @@ There are examples across photo edits, posters, branding, wallpapers, and interf
 
 I have observed fewer unnecessary regenerations while using this approach, but I do not have reliable historical timing or cost data. The [measurement protocol](benchmarks/measurement-protocol.md) is for collecting that evidence going forward.
 
-ChatGPT and image models did the image synthesis and substantial editing. Codex helped assemble and check this public repository. The work here shows my direction and evaluation process; it is not a claim that I manually illustrated the outputs.
+AI image tools did the image generation and most of the editing. What's mine is the direction and the judgment; I'm not claiming I illustrated these by hand.
 
 ## Rights
 

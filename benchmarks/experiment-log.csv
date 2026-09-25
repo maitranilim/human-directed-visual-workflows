@@ -1,10 +1,10 @@
 record_id,date,category,goal,source_public,model_or_tool,generations_to_accept,elapsed_minutes,manual_finish_minutes,reused_fragment,primary_failure,outcome,evidence_status
-historical-01,unknown,realistic-photo-editing,natural-looking scene,output-only,OpenAI image generation,,,,unknown,,selected,output available and metrics unmeasured
-historical-02,unknown,posters-public-causes,education support policy concept,yes,OpenAI image generation,,,,unknown,text fidelity,selected concept,output available and campaign performance unmeasured
-historical-03,unknown,posters-public-causes,education reform concept,yes,OpenAI image generation,,,,unknown,text fidelity,selected concept,output available and factual clearance not established
-historical-04,unknown,posters-public-causes,cultural editorial grid,yes,OpenAI image generation,,,,unknown,text and cultural accuracy,selected experiment,output available and review required
-historical-05,unknown,profile-banners-branding,mechanical symbolic identity,yes,OpenAI image generation,,,,unknown,,selected,output available and deployment unmeasured
-historical-06,unknown,profile-banners-branding,dark botanical identity,yes,OpenAI image generation,,,,unknown,,selected,output available and deployment unmeasured
-historical-07,unknown,wallpapers-worldbuilding,coherent celestial character family,yes,OpenAI image generation,,,,unknown,,selected family,three outputs available and metrics unmeasured
-historical-08,unknown,memes-template-preservation,local template edit,no,OpenAI image generation,,,,unknown,non-local editing,withheld,workflow documented and third-party image excluded
-historical-09,2026-07-30,ui-os-concepts,quick-settings data activity concept,yes,OpenAI image generation,,,,unknown,,selected concept,output available and usability unmeasured
+historical-01,unknown,realistic-photo-editing,natural-looking scene,output-only,AI image generation,,,,unknown,,selected,output available and metrics unmeasured
+historical-02,unknown,posters-public-causes,education support policy concept,yes,AI image generation,,,,unknown,text fidelity,selected concept,output available and campaign performance unmeasured
+historical-03,unknown,posters-public-causes,education reform concept,yes,AI image generation,,,,unknown,text fidelity,selected concept,output available and factual clearance not established
+historical-04,unknown,posters-public-causes,cultural editorial grid,yes,AI image generation,,,,unknown,text and cultural accuracy,selected experiment,output available and review required
+historical-05,unknown,profile-banners-branding,mechanical symbolic identity,yes,AI image generation,,,,unknown,,selected,output available and deployment unmeasured
+historical-06,unknown,profile-banners-branding,dark botanical identity,yes,AI image generation,,,,unknown,,selected,output available and deployment unmeasured
+historical-07,unknown,wallpapers-worldbuilding,coherent celestial character family,yes,AI image generation,,,,unknown,,selected family,three outputs available and metrics unmeasured
+historical-08,unknown,memes-template-preservation,local template edit,no,AI image generation,,,,unknown,non-local editing,withheld,workflow documented and third-party image excluded
+historical-09,2026-07-30,ui-os-concepts,quick-settings data activity concept,yes,AI image generation,,,,unknown,,selected concept,output available and usability unmeasured

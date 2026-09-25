@@ -6,6 +6,6 @@ You may share and adapt covered material, including commercially, provided that 
 
 Suggested attribution:
 
-> Human-Directed Visual Workflows by maitranilim, created with substantial assistance from ChatGPT, OpenAI image-generation models, and Codex, licensed under CC BY 4.0.
+> Human-Directed Visual Workflows by maitranilim, with images made using AI tools, licensed under CC BY 4.0.
 
 This grant applies only to rights that `maitranilim` is legally able to license. AI-generated output and third-party rights require the additional boundaries in [LICENSING.md](LICENSING.md).
